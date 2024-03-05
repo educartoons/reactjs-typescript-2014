@@ -15,6 +15,11 @@ function PokemonsList() {
   useEffect(() => {
     console.log('useEffect de UserList');
     fetchPokemons();
+    return () => {
+      console.log(
+        'esto se ejecuto despues de que la lista de pokemons fue retirada',
+      );
+    };
   }, []);
 
   return (
