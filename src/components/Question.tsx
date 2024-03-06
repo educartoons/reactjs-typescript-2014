@@ -60,7 +60,13 @@ function Question(props: QuestionProps) {
             />
             <label
               onClick={() => setIndexChecked(String(index))}
+              onKeyDown={(event) => {
+                if (event.key === 'Enter') {
+                  setIndexChecked(String(index));
+                }
+              }}
               htmlFor={String(index)}
+              tabIndex={0}
             >
               {alternative}
             </label>
