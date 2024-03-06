@@ -1,7 +1,11 @@
 import { useState, useEffect } from 'react';
 import { Pokemons } from './Pokemons';
 
-// Single Responsability
+
+
+
+
+
 
 function PokemonsList() {
   const [pokemons, setPokemons] = useState([]);

@@ -3,7 +3,7 @@ interface IButton {
 }
 
 function Button(props: IButton) {
-  return <button>{props.text}</button>;
+            return <button>{props.text}</button>;
 }
 
 export { Button };
