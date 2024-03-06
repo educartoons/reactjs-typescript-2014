@@ -1,12 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Pokemons } from './Pokemons';
 
-
-
-
-
-
-
 function PokemonsList() {
   const [pokemons, setPokemons] = useState([]);
 
