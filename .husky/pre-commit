@@ -1,1 +1,1 @@
-git add . && npm run prettier
+npm run prettier

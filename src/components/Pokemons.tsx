@@ -7,6 +7,9 @@ interface IPokemons {
   pokemons: Pokemon[];
 }
 
+
+
+
 function Pokemons(props: IPokemons) {
   const { pokemons } = props;
   return (

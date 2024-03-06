@@ -1,0 +1,102 @@
+[
+  {
+    "Question": "What is the capital of France?",
+    "Alternatives": [
+      "Paris",
+      "London",
+      "Rome",
+      "Madrid"
+    ],
+    "RightAlternative": "Paris"
+  },
+  {
+    "Question": "Which planet in our solar system is known as the 'Red Planet'?",
+    "Alternatives": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "RightAlternative": "Mars"
+  },
+  {
+    "Question": "What is the largest ocean on Earth?",
+    "Alternatives": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "RightAlternative": "Pacific Ocean"
+  },
+  {
+    "Question": "Who painted the famous artwork 'The Starry Night'?",
+    "Alternatives": [
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "RightAlternative": "Vincent van Gogh"
+  },
+  {
+    "Question": "What is the smallest planet in our solar system?",
+    "Alternatives": [
+      "Earth",
+      "Mercury",
+      "Venus",
+      "Mars"
+    ],
+    "RightAlternative": "Mercury"
+  },
+  {
+    "Question": "Which animal is known as the 'King of the Jungle'?",
+    "Alternatives": [
+      "Tiger",
+      "Lion",
+      "Elephant",
+      "Leopard"
+    ],
+    "RightAlternative": "Lion"
+  },
+  {
+    "Question": "What is the largest continent on Earth?",
+    "Alternatives": [
+      "Africa",
+      "Asia",
+      "North America",
+      "South America"
+    ],
+    "RightAlternative": "Asia"
+  },
+  {
+    "Question": "What is the currency used in Japan?",
+    "Alternatives": [
+      "Yen",
+      "Dollar",
+      "Euro",
+      "Pound"
+    ],
+    "RightAlternative": "Yen"
+  },
+  {
+    "Question": "Which is the tallest mammal on Earth?",
+    "Alternatives": [
+      "Giraffe",
+      "Elephant",
+      "Hippopotamus",
+      "Rhinoceros"
+    ],
+    "RightAlternative": "Giraffe"
+  },
+  {
+    "Question": "What is the largest species of bear?",
+    "Alternatives": [
+      "Polar Bear",
+      "Grizzly Bear",
+      "Black Bear",
+      "Brown Bear"
+    ],
+    "RightAlternative": "Polar Bear"
+  }
+]

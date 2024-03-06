@@ -2,6 +2,7 @@
 
 - Prettier
 - Eslint
+- vscode-styled-components
 
 ## Components
 
